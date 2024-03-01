@@ -1,11 +1,18 @@
 site_name: Contracts
-site_url: https://docs.blackphp.com
+site_url: https://manuales.algoritmia.sv/contracts/
 site_description: Manual de usuario de Contratos
 site_author: Edwin Fajardo
 copyright: Copyright &copy;2024 Algoritmia SV
+site_dir: /store/bphp/manuals/contracts
 nav:
   - Inicio: index.md
   - Usuario: usuario.md
+  - Clientes:
+    - Clientes: clientes/clientes.md
+    - Ventas: clientes/ventas.md
+    - Contratos: clientes/contratos.md
+  - Catálogo:
+    - Servicios: catalogo/servicios.md
   - Herramientas:
     - 'Historial de actividades': herramientas/historial-actividades.md
     - 'Papelera de reciclaje': herramientas/papelera.md
@@ -18,3 +25,5 @@ theme:
   name: mkdocs
   nav_style: dark
   locale: es
+extra_css:
+  - css/algoritmiasv.css

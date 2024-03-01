@@ -5,6 +5,16 @@ Presentado por: Algoritmia SV.
 
 ## Contenido
 
+### Clientes
+
+- [Clientes](clientes/clientes.md)
+- [Contratos](clientes/contratos.md)
+- [Ventas](clientes/ventas.md)
+
+### Catálogo
+
+- [Servicios](catalogo/servicios.md)
+
 ### Herramientas
 
 - [Historial de actividades](herramientas/historial-actividades.md)
